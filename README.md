@@ -1,4 +1,4 @@
-# Python_MySQL-PuntoDeVentaSencillo
+# Aplicación de consola en Python para gestión de inventario en una tienda de ropa con MySQL
 
 Esta aplicación de consola es una herramienta de gestión de inventario para una tienda de ropa. Utiliza Python para conectarse a una base de datos MySQL y permite listar, agregar, actualizar y eliminar productos en la tienda de manera eficiente.
 
